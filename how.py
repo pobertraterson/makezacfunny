@@ -39,7 +39,7 @@ def make():
             print("Way to be optimistic...")
             time.sleep(1)
         else:
-            print("That is not a valid response")
+            print("Hmm, I don't know that... yet.")
         y=y+1
     print("Your attempts to make Zac funny are futile because Zac will never be funny")
     time.sleep(3)
